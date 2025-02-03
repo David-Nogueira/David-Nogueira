@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<!-- Background black and custom colors -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=FF9900&center=true&vCenter=true&width=800&height=70&lines=Hello,+I'm+David+Nogueira!;Data+Analyst+in+the+Making!;Welcome+to+my+GitHub!">
+</h1>
 <!--
 **David-Nogueira/David-Nogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
