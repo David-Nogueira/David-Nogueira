@@ -63,8 +63,13 @@
 </a>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Data%20Analytics%20(PT)-blue?style=plastic&logo=coursera&logoColor=white" height="23"/>
-  <img src="https://img.shields.io/badge/Google%20AI%20Essentials%20(PT)-blue?style=plastic&logo=coursera&logoColor=white" height="23"/>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z5IN9DKEUN6P" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Google%20Data%20Analytics%20(PT)-blue?style=plastic&logo=coursera&logoColor=white" height="23"/>
+</p>
+
+<p align="left">
+  <a href="https://www.cesaedigital.pt/wp-content/uploads/2016/07/AF_DataAnalyst-1.pdf" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Cesae%20Digital%20Data%20Analyst%20(PT)-blue?style=plastic&logo=readthedocs&logoColor=white" height="23"/>
 </p>
 
 <h2 align="left">
@@ -88,6 +93,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="23"/>
   </a>
 </p>
+
 
 <!--
 **David-Nogueira/David-Nogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
