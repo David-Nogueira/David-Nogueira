@@ -63,12 +63,8 @@
 </a>
 
 <p align="left">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z5IN9DKEUN6P">
-    <img src="https://img.shields.io/badge/Google%20Data%20Analytics%20(PT)-blue?style=plastic&logo=coursera&logoColor=white" height="23"/>
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/R00VBJB43FTQ">
-    <img src="https://img.shields.io/badge/Google%20AI%20Essentials-blue?style=plastic&logo=coursera&logoColor=white" height="23"/>
-  </a>
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics%20(PT)-blue?style=plastic&logo=coursera&logoColor=white" height="23"/>
+  <img src="https://img.shields.io/badge/Google%20AI%20Essentials%20(PT)-blue?style=plastic&logo=coursera&logoColor=white" height="23"/>
 </p>
 
 <h2 align="left">
@@ -80,9 +76,18 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SUKHMAN-SINGH-1612&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900&bg_color=00000000"/>                  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUKHMAN-SINGH-1612&layout=compact&theme=dark&hide_border=false&title_color=FF9900&text_color=FFFFFF&border_color=FF9900&bg_color=00000000"/>
 
+<h2 align="left">
+</h2>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=Contact" alt="Typing SVG" />
+</a>
 
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/davidjnogueira/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="23"/>
+  </a>
+</p>
 
 <!--
 **David-Nogueira/David-Nogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
