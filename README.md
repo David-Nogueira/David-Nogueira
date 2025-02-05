@@ -62,6 +62,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=Courses" alt="Typing SVG" />
 </a>
 
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z5IN9DKEUN6P">
+    <img src="https://img.shields.io/badge/Google%20Data%20Analytics%20(PT)-blue?style=plastic&logo=coursera&logoColor=white" height="23"/>
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/R00VBJB43FTQ">
+    <img src="https://img.shields.io/badge/Google%20AI%20Essentials-blue?style=plastic&logo=coursera&logoColor=white" height="23"/>
+  </a>
+</p>
+
 <h2 align="left">
 </h2>
 
@@ -69,11 +78,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=GitHub+Analytics" alt="Typing SVG" />
 </a>
 
-![](https://github-readme-stats.vercel.app/api?username=David-Nogueira&theme=rose&hide_border=false&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SUKHMAN-SINGH-1612&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900&bg_color=00000000"/>                  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUKHMAN-SINGH-1612&layout=compact&theme=dark&hide_border=false&title_color=FF9900&text_color=FFFFFF&border_color=FF9900&bg_color=00000000"/>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-Nogueira&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> 
 
-<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=David-Nogueira&hide=HTML&langs_count=8&layout=compact&theme=rose&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 
 
 <!--
