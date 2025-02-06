@@ -4,9 +4,9 @@
 </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=About+Me" alt="Typing SVG" />
-- A chemical engineering undergraduate who shows keen interest in technology 💻  
-- In the progress of self-learning data science & analytics 📊📈  
-- Passionate about continuous learning 💫 and self-development 🌱
+- Currently preparing for the **Microsoft Certified: Power BI Data Analyst Associate**.
+- Data Analyst with an internship in **Advanced Analytics Consumo** at **MEO / Altice Portugal**.
+- Academic background in **Chemical and Biological Engineering**.
 
 <h2 align="left">
 </h2>
@@ -68,8 +68,9 @@
 </p>
 
 <p align="left">
-  <a href="https://www.cesaedigital.pt/wp-content/uploads/2016/07/AF_DataAnalyst-1.pdf" target="_blank" style="text-decoration: none;">
+  <a href="https://imgur.com/a/rW7YBOn" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Cesae%20Digital%20Data%20Analyst%20(PT)-blue?style=plastic&logo=readthedocs&logoColor=white" height="23"/>
+  </a>
 </p>
 
 <h2 align="left">
@@ -93,19 +94,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="23"/>
   </a>
 </p>
-
-
-<!--
-**David-Nogueira/David-Nogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
