@@ -1,4 +1,5 @@
-<!-- Background black and custom colors -->
+<a id="top"></a> 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Electrolize&size=35&color=FF9900&center=true&vCenter=true&width=800&height=70&lines=Hello,+I'm+David+Nogueira!;Welcome+to+my+GitHub!">
 </h1>
