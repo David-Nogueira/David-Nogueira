@@ -97,3 +97,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="23"/>
   </a>
 </p>
+
+<h2 align="left">
+</h2>
+
+<p align="center">
+  <a href="#top">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&center=true&vCenter=true&width=435&lines=Back+to+Top" alt="Typing SVG" />
+  </a>
+</p>
+
+<a id="top"></a>
