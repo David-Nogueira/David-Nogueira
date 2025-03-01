@@ -72,7 +72,7 @@
 </p>
 
 <p align="left">
-  <a href="https://imgur.com/a/rW7YBOn" target="_blank" style="text-decoration: none;">
+  <a href="https://imgur.com/a/zoLulGV" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Cesae%20Digital%20Data%20Analyst%20(PT)-blue?style=plastic&logo=readthedocs&logoColor=white" height="23"/>
   </a>
 </p>
