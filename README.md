@@ -12,9 +12,12 @@
 <h2 align="left">
 </h2>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=Top+Repositories" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=Repositories" alt="Typing SVG" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Nogueira&theme=dark&hide_border=false&repo=Steam_Games_2013_to_2023-R_Project-Cesae_Digital&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900)](https://github.com/David-Nogueira/Steam_Games_2013_to_2023-R_Project-Cesae_Digital)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Nogueira&theme=dark&hide_border=false&repo=Retail_of_Climate_Control_Equipment-Power_BI_Project-Cesae_Digital&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900)](https://github.com/David-Nogueira/Retail_of_Climate_Control_Equipment-Power_BI_Project-Cesae_Digital)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Nogueira&theme=dark&hide_border=false&repo=Cyclistic_Bike_Share-Power_BI_Project-Google_Data_Analytics&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900)](https://github.com/David-Nogueira/Cyclistic_Bike_Share-Power_BI_Project-Google_Data_Analytics)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Nogueira&theme=dark&hide_border=false&repo=SteamDB-SQL_Project-Cesae_Digital&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900)](https://github.com/David-Nogueira/SteamDB-SQL_Project-Cesae_Digital)      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Nogueira&theme=dark&hide_border=false&repo=Steam_Games_2013_to_2023-R_Project-Cesae_Digital&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900)](https://github.com/David-Nogueira/Steam_Games_2013_to_2023-R_Project-Cesae_Digital)
+
 
 <h2 align="left">
 </h2>
@@ -81,7 +84,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=GitHub+Analytics" alt="Typing SVG" />
 </a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Nogueira&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900&bg_color=00000000"/>                  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Nogueira&layout=compact&theme=dark&hide_border=false&title_color=FF9900&text_color=FFFFFF&border_color=FF9900&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Nogueira&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900&bg_color=00000000"/>                 
 
 <h2 align="left">
 </h2>
