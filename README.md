@@ -14,13 +14,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1&pause=1&color=FF9900&repeat=false&width=435&lines=Top+Repositories" alt="Typing SVG" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=false&repo=Data-Science-Projects&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900)](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=David-Nogueira&theme=dark&hide_border=false&repo=Steam_Games_2013_to_2023-R_Project-Cesae_Digital&bg_color=00000000&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&border_color=FF9900)](https://github.com/David-Nogueira/Steam_Games_2013_to_2023-R_Project-Cesae_Digital)
-
-
-
-
 
 <h2 align="left">
 </h2>
